@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = romain.etcheverry@hotmail.fr
+	name = romain etcheverry
